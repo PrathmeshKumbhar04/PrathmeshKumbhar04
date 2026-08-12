@@ -94,7 +94,6 @@ I enjoy writing clean, maintainable code, exploring new technologies, and buildi
 - Docker (Learning)
 - Git
 - GitHub
-- Linux
 
 ---
 
@@ -138,30 +137,6 @@ Hands-on SQL queries covering joins, aggregate functions, subqueries, window fun
 
 🏅 University Level Avishkar Participation
 
----
-
-# 📚 Currently Learning
-
-```text
-Java
-├── Collections
-├── Multithreading
-├── JDBC
-└── DSA
-
-Spring Boot
-├── REST APIs
-├── Spring Security
-├── JPA
-└── Microservices
-
-Cloud
-├── Docker
-├── AWS
-└── CI/CD
-```
-
----
 
 # 🎯 Goals
 
@@ -174,45 +149,7 @@ Cloud
 
 ---
 
-# 📊 GitHub Statistics
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=PrathmeshKumbhar04&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathmeshKumbhar04&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=PrathmeshKumbhar04&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrathmeshKumbhar04&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=PrathmeshKumbhar04&theme=tokyonight&no-frame=true&margin-w=10"/>
-
-</p>
-
----
 
 # 🌍 Open To
 
