@@ -28,7 +28,7 @@ I enjoy writing clean, maintainable code, exploring new technologies, and buildi
 - 🌱 Currently learning **Spring Boot, System Design, Docker & AWS**
 - 🧠 Strong interest in **Backend Development**
 - 🤝 Open to Software Engineering opportunities
-- 📫 Reach me: **YOUR_EMAIL**
+- 📫 Reach me: **kumbharp443@gmail.com**
 
 ---
 
