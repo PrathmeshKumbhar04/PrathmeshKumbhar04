@@ -1,16 +1,119 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Prathmesh Kumbhar</h1>
 
-<!--
-**PrathmeshKumbhar04/PrathmeshKumbhar04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Software Engineer • Full-Stack Java Developer • AI Developer • SQL Developer
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Building reliable software, exploring AI, and solving real-world problems through technology.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PrathmeshKumbhar04&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
+
+---
+
+# 🚀 About Me
+
+I'm a **Computer Engineering Graduate** passionate about software engineering and continuous learning.
+
+I enjoy building scalable applications, writing clean and maintainable code, and exploring modern technologies that solve real-world problems.
+
+My interests include **Java Backend Development, Full-Stack Development, Artificial Intelligence, Cloud Computing, and System Design**.
+
+Currently, I'm focused on improving my problem-solving skills, contributing to open-source projects, and building production-ready applications.
+
+---
+
+# 💻 Tech Stack
+
+<!-- Badges Here -->
+
+---
+
+# ☁️ Cloud & DevOps
+
+<!-- AWS, Docker, Git, GitHub, Linux -->
+
+---
+
+# 🌱 Currently Learning
+
+- Spring Boot
+- Microservices
+- Docker
+- AWS
+- System Design
+- Data Structures & Algorithms
+- AI Engineering
+
+---
+
+# 🚀 Featured Projects
+
+- 🤖 Multilingual Cyberbullying Detection
+- 📚 Student Management System
+- 💼 Portfolio Website
+- ☕ Java Interview Programs
+- 🗄️ SQL Practice Repository
+
+---
+
+# 📊 GitHub Statistics
+
+<!-- GitHub Stats -->
+
+---
+
+# 🔥 Contribution Streak
+
+<!-- Streak Stats -->
+
+---
+
+# 🏆 GitHub Achievements
+
+<!-- Trophy -->
+
+---
+
+# 🌍 Open To
+
+- Full-Time Software Engineering Roles
+- Java Backend Development
+- Full-Stack Java Development
+- Open Source Collaboration
+- AI & Machine Learning Projects
+
+---
+
+# 🤝 Let's Connect
+
+<!-- LinkedIn -->
+<!-- Email -->
+<!-- Portfolio -->
+<!-- ORCID (Optional) -->
+
+---
+
+## ⭐ Support My Work
+
+If you find my projects useful, consider giving them a ⭐.
+Your support motivates me to build and share more open-source projects.
+
+---
+
+## 💭 Developer Mindset
+
+> **Build with purpose. Learn with curiosity. Grow through consistency.**
+
+---
+
+<h3 align="center">
+🚀 Building Today • 📚 Learning Every Day • 💡 Improving for Tomorrow
+</h3>
+
+<h3 align="center">
+Thanks for visiting my profile! 😊
+</h3>
