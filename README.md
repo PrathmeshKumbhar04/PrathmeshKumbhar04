@@ -26,18 +26,6 @@ Currently, I'm focused on improving my problem-solving skills, contributing to o
 
 ---
 
-# 💻 Tech Stack
-
-<!-- Badges Here -->
-
----
-
-# ☁️ Cloud & DevOps
-
-<!-- AWS, Docker, Git, GitHub, Linux -->
-
----
-
 # 🌱 Currently Learning
 
 - Spring Boot
@@ -60,23 +48,6 @@ Currently, I'm focused on improving my problem-solving skills, contributing to o
 
 ---
 
-# 📊 GitHub Statistics
-
-<!-- GitHub Stats -->
-
----
-
-# 🔥 Contribution Streak
-
-<!-- Streak Stats -->
-
----
-
-# 🏆 GitHub Achievements
-
-<!-- Trophy -->
-
----
 
 # 🌍 Open To
 
@@ -88,25 +59,11 @@ Currently, I'm focused on improving my problem-solving skills, contributing to o
 
 ---
 
-# 🤝 Let's Connect
-
-<!-- LinkedIn -->
-<!-- Email -->
-<!-- Portfolio -->
-<!-- ORCID (Optional) -->
-
----
 
 ## ⭐ Support My Work
 
 If you find my projects useful, consider giving them a ⭐.
 Your support motivates me to build and share more open-source projects.
-
----
-
-## 💭 Developer Mindset
-
-> **Build with purpose. Learn with curiosity. Grow through consistency.**
 
 ---
 
